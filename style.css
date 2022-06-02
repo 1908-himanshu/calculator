@@ -12,10 +12,10 @@
 }
 
 #calculator {
-    width: 45%;
-    height: 80%;
+    width: 85%;
+    height: 90%;
     min-width: 300px;
-    min-height: 400px;
+    min-height: 40000px;
     background-color: var(--light-grey);
     margin: auto;
     margin-top: 80px;
@@ -26,7 +26,7 @@
 
 #calculator h1 {
     background-color: black;
-    color: white;
+    color: brown;
     text-transform: uppercase;
     text-align: center;
     padding: 10px;
